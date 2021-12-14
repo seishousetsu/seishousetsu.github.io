@@ -2,3 +2,7 @@
 title = "Seishousetu"
 author = "sungntung"
 description = "The webpage of the web novel series \"Seishousetu.\""
+
+[preprocessor.links]
+
+[preprocessor.index]
