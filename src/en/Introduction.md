@@ -10,5 +10,5 @@ The coming soon:tm: web novel series.
   The authors of that chapter will be listed on the final row on every chapter. Also, every author will be listed in the credits once the novel is finished.
   
 ## Contributing
- Anyone can contribute to the story. You can find the GitHub repository [here {{#include ../icons/link.svg}}](https://github.com/sjkim04/seishousetsu)
+ Anyone can contribute to the story. You can find the GitHub repository [here {{#include ../icons/link.svg}}].(https://github.com/sjkim04/seishousetsu)
 So, put yourself in a couch, and please click the next page
