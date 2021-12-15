@@ -1,5 +1,5 @@
 # Seishousetsu
-The coming soon:tm: web novel series.
+The coming soon™ web novel series.
 
 **English** / [日本語](../jp/紹介_案内.md)
 
@@ -11,4 +11,6 @@ The coming soon:tm: web novel series.
   
 ## Contributing
  Anyone can contribute to the story. You can find the GitHub repository [here {{#include ../icons/link.svg}}](https://github.com/sjkim04/seishousetsu).
-So, put yourself in a couch, and please click the next page
+
+## You're all set!
+So, put yourself in a couch, and please click the bottom arrow to start the story...
