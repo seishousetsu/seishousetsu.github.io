@@ -8,5 +8,5 @@ description = "The webpage of the web novel series \"Seishousetu.\""
 [preprocessor.index]
 
 [output.html]
-default-theme = "ayu"
+default-theme = "navy"
 additional-css = ["src/css/main.css"]
