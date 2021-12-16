@@ -3,7 +3,6 @@ name: Publish
 on:
   push:
     branches: [main]
-              [langsel]
 
 jobs:
   publish:
