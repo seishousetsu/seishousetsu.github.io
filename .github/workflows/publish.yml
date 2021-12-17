@@ -2,7 +2,9 @@ name: Publish
 
 on:
   push:
-    branches: [main]
+    branches: |
+            [main]
+            [langsearch]
 
 jobs:
   publish:
@@ -13,9 +15,8 @@ jobs:
 
       - name: Install mdbook
         run: |
-          wget https://github.com/rust-lang/mdBook/releases/download/v0.4.12/mdbook-v0.4.12-x86_64-unknown-linux-gnu.tar.gz
-          tar xvf mdbook-v0.4.12-x86_64-unknown-linux-gnu.tar.gz
-          chmod +x ./mdbook
+          git clone https://github.com/sjkim04/mdBook.git
+          cargo install --path .
       - name: Build and test site
         run: |
           ./mdbook build
