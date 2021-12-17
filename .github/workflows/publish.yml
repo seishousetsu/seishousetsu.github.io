@@ -14,11 +14,13 @@ jobs:
       - name: Install mdbook
         run: |
           git clone https://github.com/sjkim04/mdBook.git
+          cd mdBook
           cargo install --path .
       - name: Build and test site
         run: |
-          ./mdbook build
-          ./mdbook test
+          cd ../
+          mdbook build
+          mdbook test
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
