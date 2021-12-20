@@ -1,5 +1,5 @@
 # Seishousetsu
-The coming soon™ web novel series.
+The web novel series by a bunch of students.
 
 **English** / [日本語](紹介_案内.md) / [한국어](소개_안내.md)
 
