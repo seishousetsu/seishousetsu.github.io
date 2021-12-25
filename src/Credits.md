@@ -1,8 +1,10 @@
-Concept by sungntung (のむチュウ)
+# Credits
+
+**Concept** by sungntung (のむチュウ)
 
 ---
 
-Main Writers
+**Main Writers**
 
  - sungntung (のむチュウ)
  - nono
@@ -10,7 +12,7 @@ Main Writers
 
 ---
 
-Contributors
+**Partial Writers**
 
  - Pocky
  - Croissant
