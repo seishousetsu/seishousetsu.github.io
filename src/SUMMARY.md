@@ -1,7 +1,7 @@
 # Summary
 [Language Selection](README.md)
 
-[Announcements📢](announcement.md)
+[重大発表/중대발표/Announcements📢](announcement.md)
 
 ---
 
