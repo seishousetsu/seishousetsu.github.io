@@ -1,7 +1,7 @@
 [book]
-title = "Seishousetsu"
+title = "正小説"
 author = "sungntung"
-description = "The webpage of the web novel series \"Seishousetsu.\""
+description = "The web novel series, written by some students."
 
 [preprocessor.links]
 
