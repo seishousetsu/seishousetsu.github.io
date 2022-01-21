@@ -1,10 +1,11 @@
+{{#title Seishousetsu}}
 # Seishousetsu
-The web novel series by a bunch of students.
+The web novel series, written by some students.
 
 **English** / [日本語](紹介_案内.md) / [한국어](소개_안내.md)
 
 ## Introduction
- Seishousetsu (temporary name) is a web novel series written by a bunch of students. The story is based in Japan. To be more specifically, Tokyo and Tsukuba. Tokyo is the capital, so you may already know. Tsukuba is a city near Tokyo, it's only 300km or so. The story unfolds around a company in Tsukuba.
+ Seishousetsu (temporary name) is a web novel series written by a number of students. The story is based in Japan, Tokyo and Tsukuba, to be more specifically. Tsukuba is a city near Tokyo, it's only 300km or so. The story unfolds around a company in Tsukuba.
  
 ## Authors
   The authors of that chapter will be listed on the final row on every chapter. Also, every author will be listed in the credits once the novel is finished.
