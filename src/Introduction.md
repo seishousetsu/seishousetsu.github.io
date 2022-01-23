@@ -1,4 +1,6 @@
 {{#title Seishousetsu}}
+<head><link rel="alternate" hreflang="ja" href="紹介_案内.html" />
+<link rel="alternate" hreflang="ko" href="소개_안내.html" /></head>
 # Seishousetsu
 The web novel series, written by some students.
 
