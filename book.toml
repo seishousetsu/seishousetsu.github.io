@@ -10,3 +10,4 @@ description = "The web novel series, written by some students."
 [output.html]
 default-theme = "navy"
 additional-css = ["src/css/main.css"]
+site-url = "/seishousetsu/"
