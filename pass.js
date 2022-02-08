@@ -1,7 +1,8 @@
 var w = $(window).width();
 var ans = '031-12';
 var inputTxt;
-$('.button').on('click', function() {
+function passcheck(){
+	$('.button').on('click', function() {
 	if (w >= 767) {
 		inputTxt = $('.pass').val();
 	} else {
@@ -14,3 +15,4 @@ $('.button').on('click', function() {
 		$('.pass').attr('placeholder', '❌');
 	}
 });
+}
