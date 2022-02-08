@@ -35,4 +35,4 @@
   And blacking out, my consciousness falls into the dark.
 
 ---
-Authors: Ягути Харуки、nono
+Authors: smallgoose、nono

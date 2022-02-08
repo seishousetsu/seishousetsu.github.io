@@ -36,4 +36,4 @@
 
 
 ---
-　執筆: Ягути Харуки、nono
+　執筆: smallgoose、nono
