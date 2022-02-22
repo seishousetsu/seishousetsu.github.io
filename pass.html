@@ -164,7 +164,7 @@ if ($('.pass').val() == "031-12") {
     window.location.href = "031-12.html";
 } else {
     $(".pass").val("");
-    $('.pass').attr('placeholder', '');
+    $('.pass').attr('placeholder', 'Password');
 }
 }
 </script>
@@ -176,10 +176,7 @@ var input = document.getElementById("passinput");
 input.addEventListener("keyup", function(event) {
   // Number 13 is the "Enter" key on the keyboard
   if (event.keyCode === 13) {
-    // Cancel the default action, if needed
-    event.preventDefault();
-    // Trigger the button element with a click
-    document.getElementById("checkbtn").click();
+    passcheck()
   }
 });
 
