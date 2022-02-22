@@ -28,6 +28,8 @@ After some silence, I asked him.
 
   The silence continued after he answered the question.
 
+ㅤ
+
   After a while, 
 
   “Did you know that the pistol is actually a lighter?”
@@ -39,4 +41,4 @@ After some silence, I asked him.
   Then, he stopped moving, just sitting down on the sofa. There wasn’t any second bullet. Red liquid came out from his left chest. And inside, was a 9mm live ammo.
 
 ---
-  Authors: nono、Ягути Харуки、sungntung
+  Authors: nono、smallgoose、sungntung

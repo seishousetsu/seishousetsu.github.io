@@ -8,7 +8,7 @@
 
  - sungntung (のむチュウ)
  - nono
- - Ягути Харуки
+ - smallgoose
 
 ---
 

@@ -13,4 +13,4 @@
 　How many hours did I walk? Up ahead was an elevator. I hopped on. The elevator went up for a while. So this _is_ the basement. Then, the elevator stopped with a sound. Then, the elevator goes straight down. They’re not letting me go, I suppose. The elevator goes down and down…
 
 ---
-　Authors: Pocky, sungntung, Ягути Харуки
+　Authors: Pocky, sungntung, smallgoose
