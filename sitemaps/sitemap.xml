@@ -1,215 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/</loc>
-  <lastmod>2022-01-27</lastmod>
-  <priority>1.0</priority>
+  <loc>https://seishousetsu.github.io/</loc>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/announcement.html</loc>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+  <loc>https://seishousetsu.github.io/christmas2022.html</loc>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/Introduction.html</loc>
+  <loc>https://seishousetsu.github.io/Introduction.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html"/>
+               href="https://seishousetsu.github.io/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/en/ch1.html</loc>
+  <loc>https://seishousetsu.github.io/en/ch1.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch1.html"/>
+               href="https://seishousetsu.github.io/jp/ch1.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch1.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/ko/ch1.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/en/ch2.html</loc>
+  <loc>https://seishousetsu.github.io/en/ch2.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch2.html"/>
+               href="https://seishousetsu.github.io/jp/ch2.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch2.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/ko/ch2.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/en/ch3.html</loc>
+  <loc>https://seishousetsu.github.io/en/ch3.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch3.html"/>
+               href="https://seishousetsu.github.io/jp/ch3.html"/>
   
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch3.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/ko/ch3.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/en/ch4.html</loc>
+  <loc>https://seishousetsu.github.io/en/ch4.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch4.html"/>
+               href="https://seishousetsu.github.io/ko/ch4.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch4.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>1.0</priority>
+               href="https://seishousetsu.github.io/jp/ch4.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html</loc>
+  <loc>https://seishousetsu.github.io/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html"/>
+               href="https://seishousetsu.github.io/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/Introduction.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/Introduction.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/jp/ch1.html</loc>
+  <loc>https://seishousetsu.github.io/jp/ch1.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch1.html"/>
+               href="https://seishousetsu.github.io/ko/ch1.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch1.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/en/ch1.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/jp/ch2.html</loc>
+  <loc>https://seishousetsu.github.io/jp/ch2.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch2.html"/>
+               href="https://seishousetsu.github.io/ko/ch2.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch2.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/en/ch2.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/jp/ch3.html</loc>
+  <loc>https://seishousetsu.github.io/jp/ch3.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch3.html"/>
+               href="https://seishousetsu.github.io/ko/ch3.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch3.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/en/ch3.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/jp/ch4.html</loc>
+  <loc>https://seishousetsu.github.io/jp/ch4.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="ko"
-               href="https://sjkim04.github.io/seishousetsu/ko/ch4.html"/>
+               href="https://seishousetsu.github.io/ko/ch4.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch4.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>1.0</priority>
+               href="https://seishousetsu.github.io/en/ch4.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html</loc>
+  <loc>https://seishousetsu.github.io/%EC%86%8C%EA%B0%9C_%EC%95%88%EB%82%B4.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/Introduction.html"/>
+               href="https://seishousetsu.github.io/Introduction.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/%E7%B4%B9%E4%BB%8B_%E6%A1%88%E5%86%85.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/ko/ch1.html</loc>
+  <loc>https://seishousetsu.github.io/ko/ch1.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch1.html"/>
+               href="https://seishousetsu.github.io/en/ch1.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch1.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/jp/ch1.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/ko/ch2.html</loc>
+  <loc>https://seishousetsu.github.io/ko/ch2.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch2.html"/>
+               href="https://seishousetsu.github.io/en/ch2.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch2.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/jp/ch2.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/ko/ch3.html</loc>
+  <loc>https://seishousetsu.github.io/ko/ch3.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch3.html"/>
+               href="https://seishousetsu.github.io/en/ch3.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch3.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+               href="https://seishousetsu.github.io/jp/ch3.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/ko/ch4.html</loc>
+  <loc>https://seishousetsu.github.io/ko/ch4.html</loc>
   <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://sjkim04.github.io/seishousetsu/en/ch4.html"/>
+               href="https://seishousetsu.github.io/en/ch4.html"/>
   <xhtml:link
                rel="alternate"
                hreflang="ja"
-               href="https://sjkim04.github.io/seishousetsu/jp/ch4.html"/>
-  <lastmod>2022-01-27</lastmod>
-  <priority>1.0</priority>
+
+               href="https://seishousetsu.github.io/jp/ch4.html"/>
 </url>
 <url>
-  <loc>https://sjkim04.github.io/seishousetsu/Credits.html</loc>
-  <lastmod>2022-01-27</lastmod>
-  <priority>0.8</priority>
+  <loc>https://sjkim04.github.io/seishoustsu/pass.html</loc>
+<url>
+  <loc>https://seishousetsu.github.io/Credits.html</loc>
 </url>
 
 
