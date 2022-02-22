@@ -22,3 +22,4 @@ input.addEventListener("keyup", function(event) {
     passcheck();
   }
 });
+</script>
