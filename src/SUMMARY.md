@@ -1,7 +1,7 @@
 # Summary
 [Language Selection](README.md)
 
-[クリスマス読切情報 / Christmas Chapter / 크리스마스 특별편🎄](announcement.md)
+[クリスマス読切情報 / Christmas Chapter / 크리스마스 특별편🎄](christmas2022.md)
 
 ---
 
