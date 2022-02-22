@@ -1,6 +1,8 @@
 # Summary
 [Language Selection](README.md)
 
+[Countup](countup.md)
+
 [クリスマス読切情報 / Christmas Chapter / 크리스마스 특별편🎄](christmas2022.md)
 
 ---
