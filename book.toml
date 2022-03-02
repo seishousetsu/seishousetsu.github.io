@@ -2,6 +2,9 @@
 title = "正小説"
 author = "sungntung"
 description = "The web novel series, written by some students."
+multilingual = true
+language = "ja"
+
 
 [preprocessor.links]
 
