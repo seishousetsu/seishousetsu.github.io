@@ -5,11 +5,15 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>function passcheck(){
-if ($('.pass').val() == "031-12") {
+    let passval = $('.pass').val()
+if (passval === "031-12") {
     window.location.href = "031-12.html";
-} else {
+} else if (passval.toLowerCase() === "inose" || passval === "猪瀬" || passval === "いのせ" || passval === "イノセ") {
     $(".pass").val("");
-    $('.pass').attr('placeholder', 'Password');
+    $('.pass').attr('placeholder', '自分の名前入れてどうにかなるものじゃないんですよーw');
+    setTimeout(function(){
+        $('.pass'.attr('placeholder', 'Name X Password ○)
+    }, 1000)
 }
 }
 </script>
