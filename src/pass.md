@@ -4,19 +4,20 @@
 <input class="button" onclick="passcheck()" id="checkbtn" type="submit" />
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>function passcheck(){
-if ($('.pass').val() === "031-12") {
-    window.location.href = "031-12.html";
-} else if ($('.pass').val().toLowerCase() === "inose" or $('.pass').val() === "猪瀬" or $('.pass').val() === "いのせ" or $('.pass').val() === "イノセ") {
-    $(".pass").val("");
-    $('.pass').attr('placeholder', '自分の名前入れてどうにかなるものじゃないんですよーw');
-    setTimeout(function(){
-        $('.pass').attr('placeholder', 'Name X Password ○');
-    },1000);
-} else {
-    $(".pass").val("");
-    $('.pass').attr('placeholder', 'Password');
-};
+<script>
+function passcheck(){
+    if ($('.pass').val() === "031-12") {
+        window.location.href = "031-12.html";
+    } else if ($('.pass').val().toLowerCase() === "inose" || $('.pass').val() === "猪瀬" || $('.pass').val() === "いのせ" || $('.pass').val() === "イノセ") {
+        $(".pass").val("");
+        $('.pass').attr('placeholder', '自分の名前入れてどうにかなるものじゃないんですよーw');
+        setTimeout(function(){
+            $('.pass').attr('placeholder', 'Name X Password ○');
+        },1000);
+    }
+$(".pass").val("");
+$('.pass').attr('placeholder', 'Password');
+}
 </script>
 
 <script>
