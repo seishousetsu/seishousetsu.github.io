@@ -164,7 +164,7 @@ const inoselist = ["猪瀬", "猪せ", "猪セ", "いの瀬", "イノ瀬", "い�
 function passcheck(){
     if ($('.pass').val() === "031-12") {
         window.location.href = "031-12.html";
-    } else if (inoselist.some(v => $('.pass').val().includes(v))) {
+    } else if ($('.pass').val.toLowerCase === 'inose' || inoselist.some(v => $('.pass').val().includes(v))) {
         $(".pass").val("");
         $('.pass').attr('placeholder', '自分の名前入れられても…w');
         setTimeout(function(){
