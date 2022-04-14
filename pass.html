@@ -169,9 +169,10 @@ function passcheck(){
         setTimeout(function(){
             $('.pass').attr('placeholder', 'Name X Password ○');
         },1000);
+    } else {
+    $(".pass").val("");
+    $('.pass').attr('placeholder', 'Password');
     }
-$(".pass").val("");
-$('.pass').attr('placeholder', 'Password');
 }
 </script>
 <script>
