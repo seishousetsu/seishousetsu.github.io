@@ -10,7 +10,7 @@ function passcheck(){
         window.location.href = "031-12.html";
     } else if ($('.pass').val().toLowerCase() === "inose" || $('.pass').val() === "猪瀬" || $('.pass').val() === "いのせ" || $('.pass').val() === "イノセ") {
         $(".pass").val("");
-        $('.pass').attr('placeholder', '自分の名前入れてどうにかなるものじゃないんですよーw');
+        $('.pass').attr('placeholder', '自分の名前入れられても…w');
         setTimeout(function(){
             $('.pass').attr('placeholder', 'Name X Password ○');
         },1000);
